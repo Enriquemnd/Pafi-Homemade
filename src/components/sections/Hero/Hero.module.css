@@ -1,7 +1,7 @@
 .container {
     background-image: url(https://buggercafe.co.nz/wp-content/uploads/2016/02/shop-title-area.jpg);
     background-color: aqua;
-    height: 35vh;
+    height: 45vh;
     background-position: top;
     background-size: cover;
     display: flex;
@@ -12,6 +12,6 @@
     font-size: 2rem;
     font-weight: 700;
     color: white;
-    margin-top: 290px;
+    margin-top: 140px;
     font-family: 'Courier New', Courier, monospace;
 }

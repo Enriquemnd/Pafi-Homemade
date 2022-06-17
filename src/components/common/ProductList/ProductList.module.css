@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    column-gap: 100px;
+    row-gap: 40px;
+}
+
+.productDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid black 3px;
+}
