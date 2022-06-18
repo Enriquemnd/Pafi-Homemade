@@ -1,0 +1,15 @@
+.Cart {
+  background: white;
+  position: fixed;
+  z-index: 2;
+  right: 0;
+  height: calc(100% - 50px);
+  top: 50px;
+  width: 300px;
+  padding: 20px;
+  transition: right .3s ease-out;
+}
+
+.collapsed {
+  right: -380px;
+}

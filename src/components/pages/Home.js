@@ -6,8 +6,8 @@ export const Home = () => {
   return (
     <div>
         <Hero/>
-        <ContactUs/>
         <FeaturedProducts/>
+        <ContactUs/>
     </div>
   )
 }
